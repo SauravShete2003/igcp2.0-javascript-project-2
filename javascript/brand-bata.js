@@ -1,51 +1,50 @@
 function front(){
     const imageElement = document.getElementById('shoes')
-    
-    imageElement.src = "../image/women-shoes/nike/air-max-plus-shoes-1.png"
-}
 
+    imageElement.src = "../image/women-shoes/bata/card-1.jpeg"
+}
 function second(){
-    const imageElement = document.getElementById('shoes');
-    
-    imageElement.src = "../image/women-shoes/nike/air-max-plus-shoes-two.png"
-}
+    const imageElement = document.getElementById('shoes')
 
+    imageElement.src = "../image/women-shoes/bata/card-2.jpeg"
+}
 function third(){
-    const imageElement = document.getElementById('shoes');
-    
-    imageElement.src = "../image/women-shoes/nike/air-max-plus-shoes-3.png"
+    const imageElement = document.getElementById('shoes')
+
+    imageElement.src = "../image/women-shoes/bata/card-3.jpeg"
+}
+function forth(){
+    const imageElement = document.getElementById('shoes')
+
+    imageElement.src = "../image/women-shoes/bata/card-1.jpeg"
 }
 
-function forth(){
-    const imageElement = document.getElementById('shoes');
-    
-    imageElement.src = "../image/women-shoes/nike/air-max-plus-shoes-4.png"
-}
 // card 2
 
 function shoes1(){
     const imageElement = document.getElementById('cardShoes2')
     
-    imageElement.src = "../image/women-shoes/nike/b-air-max-sc-1.png"
+    imageElement.src = "../image/women-shoes/bata/b-card-1.jpeg"
 }
 
 function shoes2(){
     const imageElement = document.getElementById('cardShoes2');
     
-    imageElement.src = "../image/women-shoes/nike/b-air-max-sc-2.png"
+    imageElement.src = "../image/women-shoes/bata/b-card-2.jpeg"
 }
 
 function shoes3(){
     const imageElement = document.getElementById('cardShoes2');
     
-    imageElement.src = "../image/women-shoes/nike/b-air-max-sc-3.png"
+    imageElement.src = "../image/women-shoes/bata/b-card-3.jpeg"
 }
 
 function shoes4(){
-    const imageElement = document.getElementById('cardShoes3');
+    const imageElement = document.getElementById('cardShoes2');
     
-    imageElement.src = "../image/women-shoes/nike/b-air-max-sc-4.png"
+    imageElement.src = "../image/women-shoes/bata/b-card-4.jpeg"
 }
+
 // card 3
 function air1(){
     const imageElement = document.getElementById('cardShoes3')
@@ -95,4 +94,3 @@ function gamma4(){
     
     imageElement.src = "../image/women-shoes/nike/d-gamma-force-4.png"
 }
-
