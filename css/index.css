@@ -26,7 +26,7 @@ body {
   
 }
 .navbar-title{
-  color: black;
+  color: white;
   text-decoration: none;
 }
 .theme-container{
@@ -51,9 +51,9 @@ margin-top: -70px;
 .navbar-container{
   width: 100%;
   display: block;
-  background-color: #4158D0;
-  background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+ background-color: #111;
   position: sticky;
+  color: white;
   
 }
 .input-container{
@@ -153,6 +153,7 @@ margin-top: -70px;
   align-items: center;
   padding-bottom: 10px;
   margin-left: 350px;
+  
 
 }
 
@@ -189,13 +190,13 @@ margin-top: -70px;
   
   width: 300px;
   height: 350px;
-  border: 2px solid black;
+  /* border: 2px solid black; */
   border-radius: 20px;
-  background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(161,255,255,1) 11.3%, rgba(6,255,255,1) 41.2%, rgba(0,216,216,1) 77.8% );
+ background-color: white;
   box-shadow: 1px 1px 2px 2px gray;  
 }
 .Collection-heading{
-  background-image: linear-gradient( 181deg,  rgba(225,109,245,1) 6.9%, rgba(78,248,231,1) 112.8% );
+  background-color: white;
   /* border: 2px solid black; */
   padding:10px;
   margin: 10px;
